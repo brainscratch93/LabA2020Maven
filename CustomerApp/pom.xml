@@ -9,8 +9,8 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>Customer App</groupId>
-    <artifactId>Customer App</artifactId>
+    <groupId>CustomerApp</groupId>
+    <artifactId>CustomerApp</artifactId>
 
 
 </project>

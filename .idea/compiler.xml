@@ -6,14 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="CustomerApp" />
         <module name="RestaurantApp" />
+        <module name="CustomerApp" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="CustomerApp" target="1.5" />
-      <module name="Restaurant App" target="1.5" />
-      <module name="RestaurantApp" target="1.5" />
-    </bytecodeTargetLevel>
   </component>
 </project>
